@@ -1,0 +1,9 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry email="yliu@hms-dev.com">
+      <option name="address" value="registry.aws-eu-central-1.hms-dev-test.cloud" />
+      <option name="name" value="HMS Registry" />
+      <option name="username" value="yliu" />
+    </DockerRegistry>
+  </component>
+</application>

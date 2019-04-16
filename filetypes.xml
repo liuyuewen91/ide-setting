@@ -1,0 +1,33 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="tmp" type="JavaScript" />
+      <mapping pattern="token" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern="htpaswd" type="PLAIN_TEXT" />
+      <mapping pattern=".config" type="PLAIN_TEXT" />
+      <mapping pattern="placeholder" type="PLAIN_TEXT" />
+      <mapping pattern="s" type="PLAIN_TEXT" />
+      <mapping pattern="ssh_host_rsa_key" type="PLAIN_TEXT" />
+      <mapping pattern="htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="id_rsa" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc-docker" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="tpl" type="PLAIN_TEXT" />
+      <mapping ext="alpine" type="PLAIN_TEXT" />
+      <mapping pattern="build-hms-clipbox-web/yml" type="YAML" />
+    </extensionMap>
+  </component>
+</application>
