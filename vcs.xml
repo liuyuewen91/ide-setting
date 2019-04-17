@@ -146,6 +146,10 @@
           <option name="url" value="git@github.com:liuyuewen91/verdaccio-s3-storage.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:hms-gmbh/qc-layout-lib.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/workspace" />
